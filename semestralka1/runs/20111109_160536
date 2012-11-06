@@ -1,0 +1,20 @@
+Command: /media/synology/School/MI/PAR/semestralka1/bin/par_solve 10 10
+---
+0110000110110
+-------------
+   000011011
+    0001
+      0110110
+ 1100
+  100001
+    00011
+01100001
+01100001
+   0000110
+       110110
+
+
+real	0m0.983s
+user	0m0.980s
+sys	0m0.000s
+---
